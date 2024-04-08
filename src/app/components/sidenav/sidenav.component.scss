@@ -1,0 +1,7 @@
+.show-mini-drawer {
+  display: block !important;
+  visibility: visible !important;
+}
+.mat-drawer[style*="visibility: hidden"] {
+  display: block !important;
+}
